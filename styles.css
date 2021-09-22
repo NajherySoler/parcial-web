@@ -1,0 +1,24 @@
+.bg-blue-gray {
+    background-color: #c4b0c5;
+}
+
+.bg-teal {
+    background-color: rgb(180, 3, 56);
+}
+
+.material-icons.md-48 {
+    font-size: 50px;
+}
+
+.material-icons.md-96 {
+    font-size: 100px;
+}
+
+.edit {
+    cursor: pointer;
+}
+
+.bdr {
+    border-radius: 6px;
+    overflow: hidden;
+}
